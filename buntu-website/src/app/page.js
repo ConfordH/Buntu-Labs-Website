@@ -11,7 +11,7 @@ export default function Home() {
               style={{ cursor: "pointer" }}
             >
               <img
-                alt="navbar ngeni logo"
+                alt="navbar buntu logo"
                 fetchpriority="high"
                 width="150"
                 height="80"
@@ -42,7 +42,7 @@ export default function Home() {
               >
                 <a
                   target="_blank"
-                  style="color: #fff; text-decoration: none"
+                  style={{ color: "#fff", textDecoration: "none" }}
                   href="#"
                 >
                   <span className="mui-style-jchgst">Hire Us</span>
@@ -51,7 +51,7 @@ export default function Home() {
             </div>
             <div className="MuiGrid-root MuiGrid-item mui-style-n2j64o">
               <img
-                alt="navbar ngeni logo"
+                alt="navbar buntu logo"
                 loading="lazy"
                 width="39.992"
                 height="80"
@@ -335,7 +335,7 @@ export default function Home() {
               >
                 #
               </h1>
-              <div className="mui-style-1tiv49j">Speak tu BUNTU in</div>
+              <div className="mui-style-1tiv49j">Speak to BUNTU in</div>
               <h2 className="mui-style-1imlwrs">
                 ######################## Languages understood by staff
               </h2>
@@ -2358,7 +2358,7 @@ export default function Home() {
                   style="margin-top: 50px"
                 >
                   <img
-                    alt="ngeni_logo"
+                    alt="buntu_logo"
                     fetchpriority="high"
                     width="192"
                     height="37"
@@ -2389,7 +2389,7 @@ export default function Home() {
                 <div className="mui-style-15vgrjh">
                   <a
                     target="_blank"
-                    href="https://www.google.com/maps/place/NGENI+LABs/@-1.2886501,36.7921204,15z/data=!4m6!3m5!1s0x182f1171a3fb4bfb:0x97265bb753de13ab!8m2!3d-1.2886501!4d36.7921204!16s%2Fg%2F11s12w9vn8?entry=ttu"
+                    href="https://www.google.com/maps/place/BUNTU+LABs/@-1.2886501,36.7921204,15z/data=!4m6!3m5!1s0x182f1171a3fb4bfb:0x97265bb753de13ab!8m2!3d-1.2886501!4d36.7921204!16s%2Fg%2F11s12w9vn8?entry=ttu"
                   >
                     <img
                       alt="mail logo"
@@ -2420,7 +2420,7 @@ export default function Home() {
                   </a>
                 </div>
                 <div className="mui-style-15vgrjh">
-                  <a target="_blank" href="mailto:sayhello@ngeni.io">
+                  <a target="_blank" href="mailto:sayhello@buntu.com">
                     <img
                       alt="mail logo"
                       loading="lazy"
@@ -2431,7 +2431,7 @@ export default function Home() {
                       style="color: transparent"
                       src="Email address"
                     />{" "}
-                    hello@buntulabs.com
+                    sayhello@buntulabs.com
                   </a>
                 </div>
                 <br />
