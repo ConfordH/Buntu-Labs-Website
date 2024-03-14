@@ -13,8 +13,8 @@ export default function Home() {
               <img
                 alt="navbar buntu logo"
                 fetchpriority="high"
-                width="150"
-                height="80"
+                width={150}
+                height={80}
                 decoding="async"
                 data-nimg="1"
                 style={{ color: "transparent" }}
@@ -53,12 +53,12 @@ export default function Home() {
               <img
                 alt="navbar buntu logo"
                 loading="lazy"
-                width="39.992"
-                height="80"
+                width={39.992}
+                height={80}
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
-                src="#"
+                style={{ color: "transparent" }}
+                src=""
               />
             </div>
           </div>
@@ -74,7 +74,10 @@ export default function Home() {
                   Distinctio commodi fuga iste, non sunt unde!
                 </h1>
               </div>
-              <div className="mui-style-sanqhm" style="animation-delay: 0.5ms">
+              <div
+                className="mui-style-sanqhm"
+                style={{ animationDelay: "0.5ms" }}
+              >
                 <p className="mui-style-1boux17">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
                   recusandae optio, quae minus reprehenderit ut voluptate
@@ -82,7 +85,10 @@ export default function Home() {
                   expedita maxime facilis in repudiandae nesciunt.
                 </p>
               </div>
-              <div className="mui-style-sanqhm" style="animation-delay: 0.5ms">
+              <div
+                className="mui-style-sanqhm"
+                style={{ animationDelay: "0.5ms" }}
+              >
                 <a className="" href="/#scale-component">
                   <button
                     className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium mui-style-b2awi3"
@@ -94,17 +100,17 @@ export default function Home() {
                 </a>
               </div>
             </div>
-            <div className="mui-style-sanqhm" style="animation-delay: 0ms">
+            <div className="mui-style-sanqhm" style={{ animationDelay: "0ms" }}>
               <div className="mui-style-1xbeq31">
                 <img
                   alt="heroimg"
                   loading="lazy"
-                  width="837"
-                  height="789"
+                  width={837}
+                  height={789}
                   decoding="async"
                   data-nimg="1"
-                  style="color: transparent"
-                  src="/assets/Hero.svg"
+                  style={{ color: "transparent" }}
+                  src=""
                 />
               </div>
             </div>
@@ -137,24 +143,24 @@ export default function Home() {
               <svg
                 _ngcontent-hxm-c18=""
                 aria-hidden="true"
-                width="100%"
-                height="8"
+                width={100%}
+                height={8}
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <pattern
                   _ngcontent-hxm-c18=""
                   id="a"
-                  width="91"
-                  height="8"
+                  width={91}
+                  height={8}
                   patternUnits="userSpaceOnUse"
                 >
-                  <g _ngcontent-hxm-c18="" clip-path="url(#clip0_2426_11367)">
+                  <g _ngcontent-hxm-c18="" clipPath="url(#clip0_2426_11367)">
                     <path
                       _ngcontent-hxm-c18=""
                       d="M114 4c-5.067 4.667-10.133 4.667-15.2 0S88.667-.667 83.6 4 73.467 8.667 68.4 4 58.267-.667 53.2 4 43.067 8.667 38 4 27.867-.667 22.8 4 12.667 8.667 7.6 4-2.533-.667-7.6 4s-10.133 4.667-15.2 0S-32.933-.667-38 4s-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0-10.133-4.667-15.2 0-10.133 4.667-15.2 0"
                       stroke="#E1E3E1"
-                      stroke-linecap="square"
+                      strokeLinecap="square"
                     ></path>
                   </g>
                 </pattern>
@@ -166,18 +172,21 @@ export default function Home() {
                 ></rect>
               </svg>
               <div className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 mui-style-vhtkyh">
-                <div className="mui-style-sanqhm" style="animation-delay: 0ms">
+                <div
+                  className="mui-style-sanqhm"
+                  style={{ animationDelay: "0ms" }}
+                >
                   <div className="MuiGrid-root MuiGrid-item mui-style-a3eicw">
                     <div className="MuiGrid-root mui-style-n6k0ps">
                       <img
                         alt="one symbol"
                         loading="lazy"
-                        width="183"
-                        height="162"
+                        width={183}
+                        height={162}
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
-                        src="#"
+                        style={{color: "transparent"}}
+                        src=""
                       />
                     </div>
                     <div className="MuiGrid-root mui-style-ty6cp">
@@ -194,7 +203,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div className="mui-style-sanqhm" style="animation-delay: 0ms">
+                <div className="mui-style-sanqhm" style={{animationDelay: "0ms"}}>
                   <div className="MuiGrid-root MuiGrid-item mui-style-a3eicw">
                     <div className="MuiGrid-root mui-style-n6k0ps">
                       <img
@@ -204,12 +213,12 @@ export default function Home() {
                         height="162"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
-                        src="assets/SecondIllustration.svg"
+                        style={{ color: "transparent" }}
+                        src=""
                       />
                     </div>
                     <div className="MuiGrid-root mui-style-ty6cp">
-                      <h1 style="padding: 0" className="mui-style-tpf368">
+                      <h1 style={{padding: "0"}} className="mui-style-tpf368">
                         For Startups and established companies
                       </h1>
                       <div className="mui-style-9mduea">
@@ -221,7 +230,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div className="mui-style-sanqhm" style="animation-delay: 0ms">
+                <div className="mui-style-sanqhm" style={{ animationDelay: "0ms" }}>
                   <div className="MuiGrid-root MuiGrid-item mui-style-a3eicw">
                     <div className="MuiGrid-root mui-style-n6k0ps">
                       <img
@@ -231,12 +240,12 @@ export default function Home() {
                         height="162"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
-                        src="assets/ThirdIllustration.svg"
+                        style={{ color: "transparent" }}
+                        src=""
                       />
                     </div>
                     <div className="MuiGrid-root mui-style-ty6cp">
-                      <h1 style="padding: 0" className="mui-style-tpf368">
+                      <h1 style={{padding: "0"}} className="mui-style-tpf368">
                         For Businesses seeking AI integration
                       </h1>
                       <div className="mui-style-9mduea">
@@ -248,22 +257,22 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div className="mui-style-sanqhm" style="animation-delay: 0ms">
+                <div className="mui-style-sanqhm" style={{ animationDelay: "0ms" }}>
                   <div className="MuiGrid-root MuiGrid-item mui-style-a3eicw">
                     <div className="MuiGrid-root mui-style-n6k0ps">
                       <img
                         alt="one symbol"
                         loading="lazy"
-                        width="183"
-                        height="162"
+                        width={183}
+                        height={162}
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{ color: "transparent" }}
                         src="assets/fourthIllustration.svg"
                       />
                     </div>
                     <div className="MuiGrid-root mui-style-ty6cp">
-                      <h1 style="padding: 0" className="mui-style-tpf368">
+                      <h1 style={{padding: "0"}} className="mui-style-tpf368">
                         Global Clients
                       </h1>
                       <div className="mui-style-9mduea">
@@ -293,27 +302,27 @@ export default function Home() {
               <g id="pg1">
                 <g>
                   <path
-                    style="fill: #ededed"
+                    style={{fill: "#ededed"}}
                     className="cls-1"
                     d="M2.76,3.96c.25-.24,.54-.43,.88-.56,.34-.13,.72-.19,1.13-.19s.83,.08,1.19,.24c.36,.16,.7,.4,1.01,.72l1.26-1.17c-.41-.48-.92-.84-1.52-1.09s-1.28-.38-2.03-.38c-.68,0-1.3,.11-1.87,.32-.57,.21-1.06,.52-1.48,.92s-.75,.86-.98,1.4c-.23,.53-.35,1.12-.35,1.76s.12,1.23,.35,1.76c.23,.53,.55,1,.97,1.4,.42,.4,.91,.7,1.47,.92,.56,.21,1.18,.32,1.85,.32,.61,0,1.22-.09,1.83-.28,.61-.19,1.15-.45,1.61-.8v-3.45h-1.8v2.48c-.13,.07-.26,.14-.39,.18-.37,.13-.75,.19-1.14,.19s-.78-.06-1.11-.19c-.34-.13-.63-.32-.87-.56s-.44-.54-.57-.87c-.13-.33-.2-.7-.2-1.09s.07-.77,.2-1.1c.13-.33,.32-.62,.57-.86Z"
                   ></path>
                   <path
-                    style="fill: #ededed"
+                    style={{ fill: "#ededed" }}
                     className="cls-1"
                     d="M15.54,7.45c.55-.24,.98-.59,1.28-1.05,.3-.46,.45-1,.45-1.63s-.15-1.19-.45-1.65c-.3-.46-.73-.82-1.28-1.06-.55-.25-1.21-.37-1.97-.37h-3.68V10.18h1.97v-2.37h1.71s.06,0,.09,0l1.64,2.38h2.12l-1.9-2.73s.01,0,.02,0Zm-.72-3.78c.3,.26,.45,.62,.45,1.09s-.15,.82-.45,1.09c-.3,.26-.75,.4-1.36,.4h-1.6V3.28h1.6c.61,0,1.06,.13,1.36,.39Z"
                   ></path>
                   <path
-                    style="fill: #ededed"
+                    style={{fill: "#ededed"}}
                     className="cls-1"
                     d="M21.5,1.68l-3.79,8.5h2.02l.76-1.82h3.94l.75,1.82h2.06L23.44,1.68h-1.94Zm-.39,5.19l1.35-3.25,1.35,3.25h-2.7Z"
                   ></path>
                   <path
-                    style="fill: #ededed"
+                    style={{fill: "#ededed"}}
                     className="cls-1"
                     d="M33.77,2.05c-.55-.25-1.21-.37-1.97-.37h-3.68V10.18h1.97v-2.34h1.71c.76,0,1.42-.12,1.97-.37,.55-.25,.98-.6,1.28-1.06,.3-.46,.45-1.01,.45-1.64s-.15-1.19-.45-1.65c-.3-.46-.73-.82-1.28-1.06Zm-.72,3.79c-.3,.26-.75,.39-1.36,.39h-1.6V3.28h1.6c.61,0,1.06,.13,1.36,.39,.3,.26,.45,.62,.45,1.09s-.15,.82-.45,1.08Z"
                   ></path>
                   <path
-                    style="fill: #ededed"
+                    style={{ fill: "#ededed" }}
                     className="cls-1"
                     d="M69.63,7.06c-.51,.1-1.12-.02-1.53-.17-.27-.1-.35-.21-.42-.27-.16-.13-.27-.29-.4-.45-.19-.22-.36-.46-.56-.68-.48-.48-1.05-.62-1.7-.49-.37,.07-.68,.27-.88,.58-.2,.3-.37,.63-.56,.95-.14,.24-.3,.49-.45,.72-.03,0-.06,0-.09-.01-.13-.62-.29-1.22-.4-1.84-.2-1.17-.37-2.33-.6-3.48-.09-.4-.23-.81-.42-1.18-.29-.59-.76-.81-1.41-.72-.37,.04-.62,.26-.79,.56-.23,.39-.36,.82-.43,1.25-.17,1.08-.33,2.16-.48,3.25-.23,1.89-.45,3.77-.66,5.67-.01,.12-.04,.23-.07,.35-.01,0-.03,.01-.04,.01-.1-.42-.22-.83-.29-1.25-.16-.99-.3-2-.48-3.01-.09-.56-.24-1.12-.49-1.64-.14-.3-.33-.56-.6-.75-.43-.29-.86-.3-1.31-.03-.35,.2-.6,.5-.75,.88-.22,.58-.4,1.18-.6,1.77-.12,.37-.24,.75-.36,1.12-.03,.07-.07,.13-.12,.23-.04-.12-.1-.2-.12-.29-.2-.75-.39-1.5-.58-2.25-.14-.63-.27-1.25-.56-1.84-.09-.17-.19-.36-.3-.5-.46-.6-1.22-.71-1.84-.29-.29,.2-.52,.46-.65,.78-.23,.52-.43,1.07-.63,1.6-.09,.2-.13,.4-.22,.6-.03,.09-.09,.19-.16,.26-.2,.24-.46,.23-.63-.01-.14-.2-.26-.4-.4-.58-.17-.2-.37-.39-.58-.55-.43-.31-.9-.43-1.38-.37V1.68h-1.97v3.35h-3.86V1.68h-1.97V10.18h1.97v-3.49h3.86v3.49h1.97v-3.55s0,0,0,0c.22-.12,.45-.09,.62,.09,.1,.1,.19,.23,.27,.33,.2,.24,.37,.5,.59,.73,.76,.76,2,.68,2.61-.23,.23-.37,.39-.79,.56-1.2,.19-.42,.35-.85,.53-1.27,.04-.1,.12-.19,.17-.29h.06c.16,.5,.3,1.01,.45,1.51,.22,.81,.42,1.63,.63,2.43,.07,.24,.19,.49,.32,.72,.48,.85,1.55,.96,2.23,.24,.24-.26,.4-.56,.52-.89,.19-.6,.35-1.22,.53-1.83,.09-.27,.22-.55,.32-.81h.06c.01,.06,.04,.13,.06,.2,.19,.98,.39,1.94,.56,2.94,.16,.91,.24,1.83,.5,2.71,.12,.4,.33,.72,.65,.96,.65,.49,1.45,.35,1.9-.33,.27-.42,.39-.88,.45-1.35,.17-1.28,.33-2.56,.48-3.84,.19-1.71,.33-3.43,.66-5.13,.01-.04,.03-.09,.03-.14h.06c.1,.5,.23,.99,.32,1.5,.16,.99,.29,2,.48,3.01,.07,.39,.2,.78,.36,1.15,.24,.56,.66,.95,1.3,1.04,.5,.07,.94-.1,1.24-.52,.2-.3,.35-.65,.53-.96,.13-.23,.27-.48,.43-.71,.22-.27,.39-.27,.63-.03,.14,.14,.24,.3,.37,.46,.12,.14,.22,.3,.35,.45,.46,.52,1.05,.73,1.74,.65,.07-.01,.14-.01,.24-.03,.7-.04,2.28-.12,2.33-.49,.08-.59,.14-.91-1.19-.64Z"
                   ></path>
@@ -324,13 +333,13 @@ export default function Home() {
           <div className="MuiGrid-root MuiGrid-container mui-style-1pickml">
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
-                style="
-                font-size: clamp(
+                style={{
+                  fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                  2.75rem);
+                }}
+              
                 className="mui-style-87rrsr"
               >
                 #
@@ -343,7 +352,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -359,7 +368,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -375,7 +384,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -391,7 +400,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -410,7 +419,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -428,7 +437,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -444,7 +453,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -460,7 +469,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -478,7 +487,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -496,7 +505,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -512,7 +521,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 mui-style-1ia76fb">
               <h1
                 style="
-                font-size: clamp(
+                fontSize: clamp(
                   1.5rem,
                   calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
                   2.75rem
@@ -570,7 +579,7 @@ export default function Home() {
                     height="50"
                     decoding="async"
                     data-nimg="1"
-                    style="color: transparent; transition: all 2s ease-in-out"
+                    style={{color: "transparent", transition: all, "2s" "ease-in-out"}}
                     src=""
                   />
                 </div>
@@ -603,7 +612,7 @@ export default function Home() {
                 height="50"
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
+              style={{ color: "transparent" }}
                 src=""
               />
               <h1 className="mui-style-1aw6vn2">Web 3</h1>
@@ -626,7 +635,7 @@ export default function Home() {
                 height="50"
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
+              style={{ color: "transparent" }}
                 src=""
               />
               <h1 className="mui-style-1aw6vn2">
@@ -648,7 +657,7 @@ export default function Home() {
                 height="50"
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
+                style={{color: "transparent"}}
                 src=""
               />
               <h1 className="mui-style-1aw6vn2">
@@ -670,7 +679,7 @@ export default function Home() {
                 height="50"
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
+              style={{ color: "transparent" }}
                 src=""
               />
               <h1 className="mui-style-1aw6vn2">Fintech &amp; DeFi</h1>
@@ -689,7 +698,7 @@ export default function Home() {
                 height="50"
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
+                style={{color: "transparent"}}
                 src=""
               />
               <h1 className="mui-style-1aw6vn2">
@@ -711,7 +720,7 @@ export default function Home() {
                 height="50"
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
+                style={{color: "transparent"}}
                 src=""
               />
               <h1 className="mui-style-1aw6vn2">Govtech</h1>
@@ -735,7 +744,7 @@ export default function Home() {
                 height="50"
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
+                style={{color: "transparent"}}
                 src=""
               />
               <h1 className="mui-style-1aw6vn2">Gaming and NFTs</h1>
@@ -755,7 +764,7 @@ export default function Home() {
                 height="50"
                 decoding="async"
                 data-nimg="1"
-                style="color: transparent"
+                style={{color: "transparent"}}
                 src=""
               />
               <h1 className="mui-style-1aw6vn2">Automation &amp; AI</h1>
@@ -786,24 +795,24 @@ export default function Home() {
                     height="704"
                     decoding="async"
                     data-nimg="1"
-                    style="color: transparent"
+                    style={{color: "transparent"}}
                     src=""
                   />
                 </div>
                 <div className="MuiTabs-root MuiTabs-vertical mui-style-yktmvd">
                   <div
-                    style="
-                    width: 99px;
-                    height: 99px;
-                    position: absolute;
-                    top: -9999px;
-                    overflow: scroll;
-                  "
+                  style={{
+                    width: { 99px },
+                    height: {99px},
+                    position: absolute,
+                    top: -9999px,
+                    overflow: "scroll"
+                  }}
                     className="MuiTabs-hideScrollbar mui-style-oqr85h"
                   ></div>
                   <div
                     className="MuiTabs-scroller MuiTabs-hideScrollbar MuiTabs-scrollableY mui-style-ccrt04"
-                    style="overflow: hidden; margin-right: 0"
+                    style={{overflow: hidden, marginRight: "0"}}
                   >
                     <div
                       aria-label="Vertical tabs"
@@ -820,7 +829,7 @@ export default function Home() {
                       >
                         Front-End
                         <span
-                          style="background: #3ebeb880"
+                          style={{background: "#3ebeb880"}}
                           className="MuiTabs-indicator mui-style-7ozjwe"
                         ></span>
                       </button>
@@ -911,7 +920,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       NextJS
@@ -924,7 +933,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Vue
@@ -937,7 +946,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Flutter
@@ -950,7 +959,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Python
@@ -963,7 +972,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       React
@@ -976,7 +985,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Actic
@@ -989,7 +998,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Dart
@@ -1009,7 +1018,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Nodejs
@@ -1022,7 +1031,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Django
@@ -1035,7 +1044,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Laravel
@@ -1048,7 +1057,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Rust
@@ -1061,7 +1070,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                      style={{ color: "transparent" }}
                         src=""
                       />
                       GoLang
@@ -1074,7 +1083,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Dart Frog
@@ -1087,7 +1096,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Python
@@ -1100,7 +1109,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Dart
@@ -1120,7 +1129,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Solidity
@@ -1133,7 +1142,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Rust
@@ -1146,7 +1155,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Teal
@@ -1159,7 +1168,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Javascript
@@ -1172,7 +1181,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Ligo
@@ -1185,7 +1194,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Typescript
@@ -1198,7 +1207,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Serverpad
@@ -1218,7 +1227,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Tensorflow
@@ -1231,7 +1240,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Streamlit
@@ -1244,7 +1253,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       ML Flow
@@ -1257,7 +1266,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Scala
@@ -1270,7 +1279,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Fast API
@@ -1283,7 +1292,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Pytorch
@@ -1316,7 +1325,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Pycharm
@@ -1329,7 +1338,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Vscode
@@ -1342,7 +1351,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       VIM
@@ -1355,7 +1364,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Intellij
@@ -1368,7 +1377,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Git/Github
@@ -1388,7 +1397,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Kubernetes
@@ -1401,7 +1410,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Ansible
@@ -1414,7 +1423,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Terrafom
@@ -1427,7 +1436,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Graffana
@@ -1440,7 +1449,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Docker
@@ -1460,7 +1469,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Jetkins
@@ -1473,7 +1482,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Github Actions
@@ -1486,7 +1495,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Circle CI
@@ -1499,7 +1508,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Trainsci
@@ -1519,7 +1528,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Azure
@@ -1532,7 +1541,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                      style={{ color: transparent }}
                         src=""
                       />
                       AWS
@@ -1545,7 +1554,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Linode
@@ -1565,7 +1574,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Hardhat
@@ -1578,7 +1587,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Foundry
@@ -1591,7 +1600,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{color: "transparent"}}
                         src=""
                       />
                       Truffle
@@ -1626,7 +1635,7 @@ export default function Home() {
                     height="509"
                     decoding="async"
                     data-nimg="1"
-                    style="color: transparent; border-radius: 5px"
+                    style={{color: transparent, borderRadius: "5px"}}
                     src=""
                   />
                 </div>
@@ -1656,13 +1665,13 @@ export default function Home() {
                     <div className="MuiBox-root mui-style-je6zmg">
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-1dfrvtw">##########</div>
                       </div>
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-ix05ow">
                           Lorem ipsum dolor sit amet consectetur, adipisicing
@@ -1682,13 +1691,13 @@ export default function Home() {
                     <div className="MuiBox-root mui-style-je6zmg">
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-1dfrvtw">##########</div>
                       </div>
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-ix05ow">
                           Lorem, ipsum dolor sit amet consectetur adipisicing
@@ -1709,13 +1718,13 @@ export default function Home() {
                     <div className="MuiBox-root mui-style-je6zmg">
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-1dfrvtw">##############</div>
                       </div>
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-ix05ow">
                           Lorem ipsum dolor, sit amet consectetur adipisicing
@@ -1736,13 +1745,13 @@ export default function Home() {
                     <div className="MuiBox-root mui-style-je6zmg">
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-1dfrvtw">##############</div>
                       </div>
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-ix05ow">
                           Lorem, ipsum dolor sit amet consectetur adipisicing
@@ -1763,13 +1772,13 @@ export default function Home() {
                     <div className="MuiBox-root mui-style-je6zmg">
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-1dfrvtw">#######</div>
                       </div>
                       <div
                         className="mui-style-sanqhm"
-                        style="animation-delay: 0ms"
+                        style={{animationDelay: "0ms"}}
                       >
                         <div className="mui-style-ix05ow">
                           Lorem ipsum dolor sit amet consectetur adipisicing
@@ -1823,7 +1832,7 @@ export default function Home() {
             <div className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 mui-style-galbt6">
               <h3 className="mui-style-1vfmvf1">Client testimonials</h3>
               <div className="mui-style-186suln">
-                <button style="left: 10px" className="mui-style-g9cn89">
+                <button style={{left: "10px"}} className="mui-style-g9cn89">
                   <svg
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-style-vubbuv"
                     focusable="false"
@@ -1834,7 +1843,7 @@ export default function Home() {
                     <path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
                   </svg>
                 </button>
-                <div className="mui-style-sanqhm" style="animation-delay: 0ms">
+                <div className="mui-style-sanqhm" style={{animationDelay: "0ms"}}>
                   <div color="red" className="mui-style-1nqx150">
                     <div className="mui-style-wh2nbj">
                       <div className="mui-style-1waus1x">
@@ -1853,7 +1862,7 @@ export default function Home() {
                           height="58"
                           decoding="async"
                           data-nimg="1"
-                          style="color: transparent"
+                          style={{color: "transparent"}}
                           src=""
                         />
                       </div>
@@ -1865,7 +1874,7 @@ export default function Home() {
                         <div>
                           <span
                             className="MuiRating-root MuiRating-sizeMedium mui-style-1ipqyij"
-                            style="cursor: pointer; color: #f5ab00"
+                            style={{cursor: "pointer", color: "#f5ab00"}}
                           >
                             <label
                               for=":R1dtalaladaj56:"
@@ -1986,7 +1995,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div className="mui-style-sanqhm" style="animation-delay: 0ms">
+                <div className="mui-style-sanqhm" style={{animationDelay: "0ms"}}>
                   <div color="red" className="mui-style-1wn43ps">
                     <div className="mui-style-wh2nbj">
                       <div className="mui-style-1waus1x">
@@ -2006,7 +2015,7 @@ export default function Home() {
                           height="58"
                           decoding="async"
                           data-nimg="1"
-                          style="color: transparent"
+                          style={{color: "transparent"}}
                           src=""
                         />
                       </div>
@@ -2018,7 +2027,7 @@ export default function Home() {
                         <div>
                           <span
                             className="MuiRating-root MuiRating-sizeMedium mui-style-1ipqyij"
-                            style="cursor: pointer; color: #f5ab00"
+                            style={{cursor: "pointer", color: "#f5ab00"}}
                           >
                             <label
                               for=":R1dtalcladaj56:"
@@ -2159,7 +2168,7 @@ export default function Home() {
                           height="58"
                           decoding="async"
                           data-nimg="1"
-                          style="color: transparent"
+                          style={{color: "transparent"}}
                           srcset=""
                           src=""
                         />
@@ -2171,8 +2180,8 @@ export default function Home() {
                         </div>
                         <div>
                           <span
-                            className="MuiRating-root MuiRating-sizeMedium mui-style-1ipqyij"
-                            style="cursor: pointer; color: #f5ab00"
+                          className="MuiRating-root MuiRating-sizeMedium mui-style-1ipqyij"
+                          style={{ cursor: "pointer", color: "#f5ab00" }}
                           >
                             <label
                               for=":R1dtaleladaj56:"
@@ -2293,7 +2302,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <button style="right: 10px" className="mui-style-g9cn89">
+                <button style={{right: "10px"}} className="mui-style-g9cn89">
                   <svg
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-style-vubbuv"
                     focusable="false"
@@ -2355,7 +2364,7 @@ export default function Home() {
                 </div>
                 <div
                   className="MuiGrid-root mui-style-4ppf3a"
-                  style="margin-top: 50px"
+                  style={{marginTop: "50px"}}
                 >
                   <img
                     alt="buntu_logo"
@@ -2364,18 +2373,18 @@ export default function Home() {
                     height="37"
                     decoding="async"
                     data-nimg="1"
-                    style="color: transparent"
+                    style={{color: "transparent"}}
                     src="#"
                   />
                   <a
-                    style="
-                    color: #fff;
-                    text-decoration: none;
+                    style={{
+                    color: "#fff",
+                    textDecoration: none;
                     display: flex;
-                    flex-direction: row;
-                    align-items: center;
-                    max-width: 100%;
-                  "
+                    flexDirection: row;
+                    alignItems: center;
+                    max-width: 100%
+                }}
                     href=""
                   >
                     <div className="mui-style-15vgrjh">❖ Privacy Policy</div>
@@ -2398,7 +2407,7 @@ export default function Home() {
                       height="16"
                       decoding="async"
                       data-nimg="1"
-                      style="color: transparent"
+                      style={{color: "transparent"}}
                       src="Location"
                     />
                      #
@@ -2413,7 +2422,7 @@ export default function Home() {
                       height="16"
                       decoding="async"
                       data-nimg="1"
-                      style="color: transparent"
+                      style={{color: "transparent"}}
                       src="Phone Number"
                     />
                      #############
@@ -2428,7 +2437,7 @@ export default function Home() {
                       height="16"
                       decoding="async"
                       data-nimg="1"
-                      style="color: transparent"
+                      style={{color: "transparent"}}
                       src="Email address"
                     />{" "}
                     sayhello@buntulabs.com
