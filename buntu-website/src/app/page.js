@@ -33,7 +33,7 @@ export default function Home() {
             </div>
             <div className="root item 1bxybny">
               <button
-                className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium hxdjd9"
+                className="ButtonBase-root Button-root Button-text Button-textPrimary Button-sizeMedium Button-textSizeMedium Button-root Button-text Button-textPrimary Button-sizeMedium Button-textSizeMedium hxdjd9"
                 tabindex="0"
                 type="button"
               >
@@ -60,7 +60,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root 1yyjey2" id="hero-component">
+        <div className="Box-root 1yyjey2" id="hero-component">
           <div className="root 1innp1n">
             <div className="9nr86l">
               <div className="sanqhm" style="animation-delay: 0.5ms">
@@ -82,7 +82,7 @@ export default function Home() {
               <div className="sanqhm" style={{ animationDelay: "0.5ms" }}>
                 <a className="" href="/#scale-component">
                   <button
-                    className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium b2awi3"
+                    className="ButtonBase-root Button-root Button-text Button-textPrimary Button-sizeMedium Button-textSizeMedium Button-root Button-text Button-textPrimary Button-sizeMedium Button-textSizeMedium b2awi3"
                     tabindex="0"
                     type="button"
                   >
@@ -107,9 +107,9 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root u2yql" id="story-component">
-          <div className="MuiBox-root iali1g">
-            <div className="MuiBox-root ka0ucw" id="aboutus">
+        <div className="Box-root u2yql" id="story-component">
+          <div className="Box-root iali1g">
+            <div className="Box-root ka0ucw" id="aboutus">
               <h1 className="198aj0d">OUR HISTORY</h1>
               <h1 className="tpf368">
                 <span>
@@ -121,7 +121,7 @@ export default function Home() {
                   engineers.
                 </span>
               </h1>
-              <div className="MuiBox-root 1cpt3q9">
+              <div className="Box-root 1cpt3q9">
                 <h1 className="c94fsw">
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae
                   laboriosam veniam error, incidunt corporis, nemo fuga facere
@@ -130,7 +130,7 @@ export default function Home() {
                 </h1>
               </div>
             </div>
-            <div className="MuiBox-root aqmfzt">
+            <div className="Box-root aqmfzt">
               {/* <svg
                 _ngcontent-hxm-c18=""
                 aria-hidden="true"
@@ -277,7 +277,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root 1hftjh0">
+        <div className="Box-root 1hftjh0">
           <h2 className="1m2f4bn">
             BUNTU <span>Composition</span> By
             <svg
@@ -519,7 +519,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root 1v2cm4j" id="constantly-component">
+        <div className="Box-root 1v2cm4j" id="constantly-component">
           <div className="qmfn7z">
             <div className="root container 2yyt7r">
               <div className="root item grid-xs-12 grid-md-6 dgn8jk">
@@ -558,7 +558,7 @@ export default function Home() {
                     src=""
                   />
                 </div>
-                <p className="MuiTypography-root MuiTypography-body1 1exc1sy">
+                <p className="Typography-root Typography-body1 1exc1sy">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Eligendi pariatur esse, ipsam laudantium tempora maxime
                   exercitationem assumenda, cupiditate sint recusandae qui,
@@ -753,7 +753,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root 11ti8lm" id="tech-components">
+        <div className="Box-root 11ti8lm" id="tech-components">
           <div className="uf2rud">
             <h1 className="rr5kfr">Our Tech Stack</h1>
             <div className="root container 1fbgxjs">
@@ -770,7 +770,7 @@ export default function Home() {
                     src=""
                   />
                 </div>
-                <div className="MuiTabs-root MuiTabs-vertical yktmvd">
+                <div className="Tabs-root Tabs-vertical yktmvd">
                   <div
                     style={{
                       width: "99px",
@@ -779,20 +779,20 @@ export default function Home() {
                       top: "-9999px",
                       overflow: "scroll",
                     }}
-                    className="MuiTabs-hideScrollbar oqr85h"
+                    className="Tabs-hideScrollbar oqr85h"
                   ></div>
                   <div
-                    className="MuiTabs-scroller MuiTabs-hideScrollbar MuiTabs-scrollableY ccrt04"
+                    className="Tabs-scroller Tabs-hideScrollbar Tabs-scrollableY ccrt04"
                     style={{ overflow: "hidden", marginRight: "0" }}
                   >
                     <div
                       aria-label="Vertical tabs"
                       aria-orientation="vertical"
-                      className="MuiTabs-flexContainer MuiTabs-flexContainerVertical j7qwjs"
+                      className="Tabs-flexContainer Tabs-flexContainerVertical j7qwjs"
                       role="tablist"
                     >
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary Mui-selected hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary -selected hn5wsc"
                         tabindex="0"
                         type="button"
                         role="tab"
@@ -801,11 +801,11 @@ export default function Home() {
                         Front-End
                         <span
                           style={{ background: "#3ebeb880" }}
-                          className="MuiTabs-indicator 7ozjwe"
+                          className="Tabs-indicator 7ozjwe"
                         ></span>
                       </button>
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary hn5wsc"
                         tabindex="-1"
                         type="button"
                         role="tab"
@@ -814,7 +814,7 @@ export default function Home() {
                         Back-End
                       </button>
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary hn5wsc"
                         tabindex="-1"
                         type="button"
                         role="tab"
@@ -823,7 +823,7 @@ export default function Home() {
                         Blockchain
                       </button>
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary hn5wsc"
                         tabindex="-1"
                         type="button"
                         role="tab"
@@ -832,7 +832,7 @@ export default function Home() {
                         AI
                       </button>
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary hn5wsc"
                         tabindex="-1"
                         type="button"
                         role="tab"
@@ -841,7 +841,7 @@ export default function Home() {
                         Dev Tools
                       </button>
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary hn5wsc"
                         tabindex="-1"
                         type="button"
                         role="tab"
@@ -850,7 +850,7 @@ export default function Home() {
                         Dev-Ops
                       </button>
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary hn5wsc"
                         tabindex="-1"
                         type="button"
                         role="tab"
@@ -859,7 +859,7 @@ export default function Home() {
                         CI/CD
                       </button>
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary hn5wsc"
                         tabindex="-1"
                         type="button"
                         role="tab"
@@ -868,7 +868,7 @@ export default function Home() {
                         Cloud Tools
                       </button>
                       <button
-                        className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary hn5wsc"
+                        className="ButtonBase-root Tab-root Tab-textColorPrimary hn5wsc"
                         tabindex="-1"
                         type="button"
                         role="tab"
@@ -1558,8 +1558,8 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root ms1ww4">
-          <div className="MuiBox-root tcjd3g">
+        <div className="Box-root ms1ww4">
+          <div className="Box-root tcjd3g">
             <div className="2hznyd">
               <div className="166ldnv">
                 <div className="dryicc">
@@ -1598,16 +1598,16 @@ export default function Home() {
                   we Thrill!
                 </div>
                 <div className="0">
-                  <div className="MuiBox-root 67lm9u"></div>
+                  <div className="Box-root 67lm9u"></div>
                 </div>
               </div>
               <div id="projects-component" className="1ss2y62">
                 <div className="70j6px">
                   <div className="11ogpg1">
-                    <div className="MuiBox-root 185uvb6"></div>
+                    <div className="Box-root 185uvb6"></div>
                   </div>
                   <div className="o1u11e">
-                    <div className="MuiBox-root je6zmg">
+                    <div className="Box-root je6zmg">
                       <div className="sanqhm" style={{ animationDelay: "0ms" }}>
                         <div className="1dfrvtw">##########</div>
                       </div>
@@ -1624,10 +1624,10 @@ export default function Home() {
                 </div>
                 <div className="70j6px">
                   <div className="11ogpg1">
-                    <div className="MuiBox-root qclry5"></div>
+                    <div className="Box-root qclry5"></div>
                   </div>
                   <div className="o1u11e">
-                    <div className="MuiBox-root je6zmg">
+                    <div className="Box-root je6zmg">
                       <div className="sanqhm" style={{ animationDelay: "0ms" }}>
                         <div className="1dfrvtw">##########</div>
                       </div>
@@ -1645,10 +1645,10 @@ export default function Home() {
                 </div>
                 <div className="70j6px">
                   <div className="11ogpg1">
-                    <div className="MuiBox-root 1o67bhz"></div>
+                    <div className="Box-root 1o67bhz"></div>
                   </div>
                   <div className="o1u11e">
-                    <div className="MuiBox-root je6zmg">
+                    <div className="Box-root je6zmg">
                       <div className="sanqhm" style={{ animationDelay: "0ms" }}>
                         <div className="1dfrvtw">##############</div>
                       </div>
@@ -1666,10 +1666,10 @@ export default function Home() {
                 </div>
                 <div className="70j6px">
                   <div className="11ogpg1">
-                    <div className="MuiBox-root 1tclaao"></div>
+                    <div className="Box-root 1tclaao"></div>
                   </div>
                   <div className="o1u11e">
-                    <div className="MuiBox-root je6zmg">
+                    <div className="Box-root je6zmg">
                       <div className="sanqhm" style={{ animationDelay: "0ms" }}>
                         <div className="1dfrvtw">##############</div>
                       </div>
@@ -1687,10 +1687,10 @@ export default function Home() {
                 </div>
                 <div className="70j6px">
                   <div className="11ogpg1">
-                    <div className="MuiBox-root 1h5c9vz"></div>
+                    <div className="Box-root 1h5c9vz"></div>
                   </div>
                   <div className="o1u11e">
-                    <div className="MuiBox-root je6zmg">
+                    <div className="Box-root je6zmg">
                       <div className="sanqhm" style={{ animationDelay: "0ms" }}>
                         <div className="1dfrvtw">#######</div>
                       </div>
@@ -1710,28 +1710,28 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root y0wdau" id="team-components">
-          <div className="MuiBox-root 1nfgsff">
+        <div className="Box-root y0wdau" id="team-components">
+          <div className="Box-root 1nfgsff">
             <h1 className="16bxyzk">Meet Our</h1>
             <h1 className="15hzmjv">ThinkTanks</h1>
             <div className="root justify-center container 1gxnz8l">
               <div className="root item grid-xs-6 grid-md-2 dbjt2q">
-                <div className="MuiAvatar-root MuiAvatar-circular 1dkg7ym">
-                  <img src="" className="MuiAvatar-img 1hy9t21" />
+                <div className="Avatar-root Avatar-circular 1dkg7ym">
+                  <img src="" className="Avatar-img 1hy9t21" />
                 </div>
                 <h1 className="1g8pjgs">Bravine</h1>
                 <h1 className="zdksp">.#</h1>
               </div>
               <div className="root item grid-xs-6 grid-md-2 dbjt2q">
-                <div className="MuiAvatar-root MuiAvatar-circular 1dkg7ym">
-                  <img src="" className="MuiAvatar-img 1hy9t21" />
+                <div className="Avatar-root Avatar-circular 1dkg7ym">
+                  <img src="" className="Avatar-img 1hy9t21" />
                 </div>
                 <h1 className="1g8pjgs">Cliff</h1>
                 <h1 className="zdksp">.#</h1>
               </div>
               <div className="root item grid-xs-6 grid-md-2 dbjt2q">
-                <div className="MuiAvatar-root MuiAvatar-circular 1dkg7ym">
-                  <img src="" className="MuiAvatar-img 1hy9t21" />
+                <div className="Avatar-root Avatar-circular 1dkg7ym">
+                  <img src="" className="Avatar-img 1hy9t21" />
                 </div>
                 <h1 className="1g8pjgs">Conford</h1>
                 <h1 className="zdksp">kodekiddo</h1>
@@ -1739,14 +1739,14 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root 1b5tw5p" id="testimonials-component">
+        <div className="Box-root 1b5tw5p" id="testimonials-component">
           <div className="root container 13wadb3">
             <div className="root item grid-xs-12 grid-md-6 galbt6">
               <h3 className="1vfmvf1">Client testimonials</h3>
               <div className="186suln">
                 <button style={{ left: "10px" }} className="g9cn89">
                   <svg
-                    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium vubbuv"
+                    className="SvgIcon-root SvgIcon-fontSizeMedium vubbuv"
                     focusable="false"
                     aria-hidden="true"
                     viewBox="0 0 24 24"
@@ -1756,7 +1756,7 @@ export default function Home() {
                   </svg>
                 </button>
                 <div className="sanqhm" style={{ animationDelay: "0ms" }}>
-                  <div color="red" className="1nqx150">
+                  <div style={{ color: "red" }} className="1nqx150">
                     <div className="wh2nbj">
                       <div className="1waus1x">
                         ❝ Lorem ipsum, dolor sit amet consectetur adipisicing
@@ -1783,72 +1783,64 @@ export default function Home() {
                         <div className="dz9bxf">-- Abdaacdabra, Anywhere</div>
                         <div>
                           <span
-                            className="MuiRating-root MuiRating-sizeMedium 1ipqyij"
+                            className="root sizeMedium 1ipqyij"
                             style={{ cursor: "pointer", color: "#f5ab00" }}
                           >
                             <label for=":R1dtalaladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                1 Star
-                              </span>{" "}
+                              <span className="visuallyHidden">1 Star</span>{" "}
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R1dtalaladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="1"
                             />
                             <label for=":R2dtalaladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                2 Stars
-                              </span>
+                              <span className="visuallyHidden">2 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R2dtalaladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="2"
                             />
                             <label for=":R3dtalaladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                3 Stars
-                              </span>
+                              <span className="visuallyHidden">3 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R3dtalaladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="3"
                             />
                             <label for=":R4dtalaladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                4 Stars
-                              </span>
+                              <span className="visuallyHidden">4 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R4dtalaladaj56:"
                               type="radio"
                               name="controlled-rating"
@@ -1856,33 +1848,29 @@ export default function Home() {
                               value="4"
                             />
                             <label for=":R5dtalaladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconEmpty 1xh6k8t">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconEmpty 1xh6k8t">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                5 Stars
-                              </span>
+                              <span className="visuallyHidden">5 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R5dtalaladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="5"
                             />
-                            <label className="MuiRating-label MuiRating-pristine ykqdxu">
+                            <label className="label pristine ykqdxu">
                               <input
-                                className="MuiRating-visuallyHidden"
+                                className="visuallyHidden"
                                 id="controlled-rating-empty"
                                 type="radio"
                                 name="controlled-rating"
                                 value=""
                               />
-                              <span className="MuiRating-visuallyHidden">
-                                Empty
-                              </span>
+                              <span className="visuallyHidden">Empty</span>
                             </label>
                           </span>
                         </div>
@@ -1891,7 +1879,7 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="sanqhm" style={{ animationDelay: "0ms" }}>
-                  <div color="red" className="1wn43ps">
+                  <div style={{ color: "red" }} className="1wn43ps">
                     <div className="wh2nbj">
                       <div className="1waus1x">
                         ❝ Lorem ipsum dolor sit amet consectetur adipisicing
@@ -1919,72 +1907,64 @@ export default function Home() {
                         <div className="dz9bxf">-- Somewhere [Kenya]</div>
                         <div>
                           <span
-                            className="MuiRating-root MuiRating-sizeMedium 1ipqyij"
+                            className="root sizeMedium 1ipqyij"
                             style={{ cursor: "pointer", color: "#f5ab00" }}
                           >
                             <label for=":R1dtalcladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                1 Star
-                              </span>{" "}
+                              <span className="visuallyHidden">1 Star</span>{" "}
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R1dtalcladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="1"
                             />
                             <label for=":R2dtalcladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                2 Stars
-                              </span>
+                              <span className="visuallyHidden">2 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R2dtalcladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="2"
                             />
                             <label for=":R3dtalcladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                3 Stars
-                              </span>
+                              <span className="visuallyHidden">3 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R3dtalcladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="3"
                             />
                             <label for=":R4dtalcladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                4 Stars
-                              </span>
+                              <span className="visuallyHidden">4 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R4dtalcladaj56:"
                               type="radio"
                               name="controlled-rating"
@@ -1992,33 +1972,29 @@ export default function Home() {
                               value="4"
                             />
                             <label for=":R5dtalcladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconEmpty 1xh6k8t">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconEmpty 1xh6k8t">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                5 Stars
-                              </span>
+                              <span className="visuallyHidden">5 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R5dtalcladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="5"
                             />
-                            <label className="MuiRating-label MuiRating-pristine ykqdxu">
+                            <label className="label pristine ykqdxu">
                               <input
-                                className="MuiRating-visuallyHidden"
+                                className="visuallyHidden"
                                 id="controlled-rating-empty"
                                 type="radio"
                                 name="controlled-rating"
                                 value=""
                               />
-                              <span className="MuiRating-visuallyHidden">
-                                Empty
-                              </span>
+                              <span className="visuallyHidden">Empty</span>
                             </label>
                           </span>
                         </div>
@@ -2027,7 +2003,7 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="sanqhm" style="animation-delay: 0ms">
-                  <div color="red" className="1wn43ps">
+                  <div style={{ color: "red" }} className="1wn43ps">
                     <div className="wh2nbj">
                       <div className="1waus1x">
                         ❝ Lorem, ipsum dolor sit amet consectetur adipisicing
@@ -2056,72 +2032,64 @@ export default function Home() {
                         <div className="dz9bxf">-- Busybusy [Country]</div>
                         <div>
                           <span
-                            className="MuiRating-root MuiRating-sizeMedium 1ipqyij"
+                            className="root sizeMedium 1ipqyij"
                             style={{ cursor: "pointer", color: "#f5ab00" }}
                           >
                             <label for=":R1dtaleladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                1 Star
-                              </span>{" "}
+                              <span className="visuallyHidden">1 Star</span>{" "}
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R1dtaleladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="1"
                             />
                             <label for=":R2dtaleladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                2 Stars
-                              </span>
+                              <span className="visuallyHidden">2 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R2dtaleladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="2"
                             />
                             <label for=":R3dtaleladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                3 Stars
-                              </span>
+                              <span className="visuallyHidden">3 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R3dtaleladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="3"
                             />
                             <label for=":R4dtaleladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconFilled 13m1if9">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconFilled 13m1if9">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                4 Stars
-                              </span>
+                              <span className="visuallyHidden">4 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R4dtaleladaj56:"
                               type="radio"
                               name="controlled-rating"
@@ -2129,33 +2097,29 @@ export default function Home() {
                               value="4"
                             />
                             <label for=":R5dtaleladaj56:" className="ykqdxu">
-                              <span className="MuiRating-icon MuiRating-iconEmpty 1xh6k8t">
-                                <p className="MuiTypography-root MuiTypography-body1 9l3uo3">
+                              <span className="icon iconEmpty 1xh6k8t">
+                                <p className="Typography-root Typography-body1 9l3uo3">
                                   ★
                                 </p>
                               </span>
-                              <span className="MuiRating-visuallyHidden">
-                                5 Stars
-                              </span>
+                              <span className="visuallyHidden">5 Stars</span>
                             </label>
                             <input
-                              className="MuiRating-visuallyHidden"
+                              className="visuallyHidden"
                               id=":R5dtaleladaj56:"
                               type="radio"
                               name="controlled-rating"
                               value="5"
                             />
-                            <label className="MuiRating-label MuiRating-pristine ykqdxu">
+                            <label className="label pristine ykqdxu">
                               <input
-                                className="MuiRating-visuallyHidden"
+                                className="visuallyHidden"
                                 id="controlled-rating-empty"
                                 type="radio"
                                 name="controlled-rating"
                                 value=""
                               />
-                              <span className="MuiRating-visuallyHidden">
-                                Empty
-                              </span>
+                              <span className="visuallyHidden">Empty</span>
                             </label>
                           </span>
                         </div>
@@ -2165,7 +2129,7 @@ export default function Home() {
                 </div>
                 <button style={{ right: "10px" }} className="g9cn89">
                   <svg
-                    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium vubbuv"
+                    className="SvgIcon-root SvgIcon-fontSizeMedium vubbuv"
                     focusable="false"
                     aria-hidden="true"
                     viewBox="0 0 24 24"
@@ -2191,8 +2155,8 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="MuiBox-root 18hnty">
-          <div className="MuiBox-root ksvxhp">
+        <div className="Box-root 18hnty">
+          <div className="Box-root ksvxhp">
             <div className="5rhipx">
               <div className="root 1ysvcfq">
                 <div className="root 4ppf3a">
