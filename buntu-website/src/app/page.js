@@ -63,7 +63,7 @@ export default function Home() {
         <div className="Box-root 1yyjey2" id="hero-component">
           <div className="root 1innp1n">
             <div className="9nr86l">
-              <div className="sanqhm" style="animation-delay: 0.5ms">
+              <div className="sanqhm" style={{ animationDelay: "0.5ms" }}>
                 <h1 className="de67cs">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                   Doloremque, suscipit accusamus nihil tempore, saepe, animi
@@ -178,7 +178,7 @@ export default function Home() {
                       />
                     </div>
                     <div className="root ty6cp">
-                      <h1 style="padding: 0" className="tpf368">
+                      <h1 style={{ padding: "0" }} className="tpf368">
                         For Business &amp; Entrepreneurs
                       </h1>
                       <div className="9mduea">
@@ -336,13 +336,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem)",
+                }}
                 className="87rrsr"
               >
                 #
@@ -352,13 +349,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -368,13 +362,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -384,13 +375,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp( 1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -403,13 +391,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -419,13 +404,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -435,13 +417,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), .75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -451,13 +430,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -469,13 +445,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -485,13 +458,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -501,13 +471,10 @@ export default function Home() {
             </div>
             <div className="root item grid-xs-12 grid-md-3 1ia76fb">
               <h1
-                style="
-                fontSize: clamp(
-                  1.5rem,
-                  calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)),
-                  2.75rem
-                );
-              "
+                style={{
+                  fontSize:
+                    "clamp(1.5rem, calc(1.5rem + ((1vw - 0.1375rem) * 1.4286)), 2.75rem",
+                }}
                 className="87rrsr"
               >
                 #
@@ -1271,7 +1238,7 @@ export default function Home() {
                         height="45"
                         decoding="async"
                         data-nimg="1"
-                        style="color: transparent"
+                        style={{ color: "transparent" }}
                         src=""
                       />
                       Android Studio
@@ -2002,7 +1969,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div className="sanqhm" style="animation-delay: 0ms">
+                <div className="sanqhm" style={{ animationDelay: "0ms" }}>
                   <div style={{ color: "red" }} className="1wn43ps">
                     <div className="wh2nbj">
                       <div className="1waus1x">
