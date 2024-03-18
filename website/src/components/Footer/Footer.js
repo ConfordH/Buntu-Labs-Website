@@ -36,18 +36,7 @@ const Footer = () => {
           <LinkItem href="mailto:hello@buntulabs.com">
             hello@buntulabs.com
           </LinkItem>
-          <LinkItem href="mailto:hello@buntulabs.com">
-            hello@buntulabs.com
-          </LinkItem>
-          <LinkItem href="mailto:hello@buntulabs.com">
-            hello@buntulabs.com
-          </LinkItem>
-          <LinkItem href="mailto:hello@buntulabs.com">
-            hello@buntulabs.com
-          </LinkItem>
-          <LinkItem href="mailto:hello@buntulabs.com">
-            hello@buntulabs.com
-          </LinkItem>
+    
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
